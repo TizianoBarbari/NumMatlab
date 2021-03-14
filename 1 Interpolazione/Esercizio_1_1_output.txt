@@ -1,0 +1,12 @@
+>> Esercizio_1_1
+Errore in norma infinito ~ C*gamma^n:
+	 2.392220 * 0.819804^n 
+
+Stima di gamma:
+	 0.819804.
+
+Stima di C:
+	 2.392220.
+
+Err. calcolato con Remez / Err. con la stima C*(gamma^n):
+	 0.299029.

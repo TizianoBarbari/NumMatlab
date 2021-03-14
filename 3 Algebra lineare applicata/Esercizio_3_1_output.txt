@@ -1,0 +1,7 @@
+>> Esercizio_3_1
+	 
+ [JACOBI  ] [STEP REL., NORMA 2]: NaN [REL.ERR.]: NaN	 
+            [ITER.]: 1000 [FLAG]: 0 
+	 
+ [SOR OTT.] [STEP REL., NORMA 2]: 0.00e+00 [REL.ERR.]: 0.00e+00	 
+            [ITER.]:   2 [FLAG]: 1 [w]: 1.000 

@@ -1,0 +1,32 @@
+>> Esercizio_4_1
+Si vogliono calcolare gli autovalori (di moduli minimo e massimo) della matrice di Hilbert di ordine 5.
+
+- Metodo delle potenze -
+
+Dopo 8 interazioni:
+Autovalore di mod. max.: 1.567051
+
+Dopo 7 interazioni:
+Autovalore di mod. min.: 0.000003
+
+Condizionamento (norma eucl.) di Hilb(5) calcolato in due modi:
+1) Routine di MATLAB: cond(hilb(5),2) =	 476607.2502434046.
+2) max |lambda_i| / min |lambda_i| =	 476607.2502422599.
+Discrepanza: 0.0000011447 = 1.1446536519e-06.
+
+ - Metodo QR - 
+
+   1.567050691098230
+   0.208534218611013
+   0.011407491623420
+   0.000305898040151
+   0.000003287928772
+
+
+Dunque:
+lambda_max = 1.5670506911
+lambda_min = 0.0000032879.
+
+Con tali valori cond(hilb(5),2) = 476607.2502422241 
+mentre la routine di MATLAB porge 476607.2502434046 
+Discrepanza: 0.0000011805 = 1.1804513633e-06

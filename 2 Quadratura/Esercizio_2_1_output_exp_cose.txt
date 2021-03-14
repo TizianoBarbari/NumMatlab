@@ -1,0 +1,6 @@
+Funzione da integrare: exp(cos(x)), tra -3.1 e 3.1, usando il peso (1-x)^0.0 (1+x)^0.0 
+Risultato 'esatto': 7.95492652101284.
+
+Valore calcolato con 10 punti: 7.9547349085829868.	Errore con 10 punti: 1.91612e-04
+Valore calcolato con 20 punti: 7.9549265209866311.	Errore con 20 punti: 2.62093e-11
+Valore calcolato con 30 punti: 7.9549265210128359.	Errore con 30 punti: 4.44089e-15

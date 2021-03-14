@@ -1,0 +1,6 @@
+Funzione da integrare: x^(5/2), tra 0.0 e 1.0, usando il peso (1-x)^0.0 (1+x)^0.0 
+Risultato 'esatto': 0.28571428571429.
+
+Valore calcolato con 10 punti: 0.2857142976895379.	Errore con 10 punti: 1.19753e-08
+Valore calcolato con 20 punti: 0.2857142858212793.	Errore con 20 punti: 1.06994e-10
+Valore calcolato con 30 punti: 0.2857142857208719.	Errore con 30 punti: 6.58618e-12

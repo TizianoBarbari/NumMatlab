@@ -1,0 +1,25 @@
+>> Esercizio_3_2
+MATRICE DI POISSON DI ORDINE 20: 
+	 
+ [GRA.CON.] [STEP REL., NORMA 2]: 1.99e-13 [REL.ERR.]: 3.20e-15	 
+            [ITER.]:  43 [FLAG]: 1 
+	 
+ [JACOBI  ] [STEP REL., NORMA 2]: 1.33e-03 [REL.ERR.]: 1.05e-01	 
+            [ITER.]: 200 [FLAG]: 1 
+	 
+ [GAU.SEI.] [STEP REL., NORMA 2]: 2.59e-04 [REL.ERR.]: 1.13e-02	 
+            [ITER.]: 200 [FLAG]: 1 
+
+ MATRICE minij DI ORDINE 100: 
+	 
+ [GRA.CON.] [STEP REL., NORMA 2]: 9.19e-13 [REL.ERR.]: 1.65e-11	 
+            [ITER.]: 106 [FLAG]: 1 
+	 
+ [JACOBI  ] [STEP REL., NORMA 2]: NaN [REL.ERR.]: NaN	 
+            [ITER.]: 200 [FLAG]: 0 
+	 
+ [GAU.SEI.] [STEP REL., NORMA 2]: 0.00e+00 [REL.ERR.]: 0.00e+00	 
+            [ITER.]:   2 [FLAG]: 1 
+	 
+ [SOR OTT.] [STEP REL., NORMA 2]: 0.00e+00 [REL.ERR.]: 0.00e+00	 
+            [ITER.]:   2 [FLAG]: 1 [w]: 1.000 

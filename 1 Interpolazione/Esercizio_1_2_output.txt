@@ -1,0 +1,12 @@
+>> Esercizio_1_2
+Funzione in esame: sin(pi*x)/(pi*x)
+
+Errore in norma inf. (con 'splitting on'):     ~ 0.000000 * 0.949648 ^n 
+Errore in norma inf. (senza 'splitting on'):   ~ 0.000001 * 0.803041 ^n 
+
+Err. calcolato con Remez / Err. con la stima sopra (senza splitting): 7.430967.
+Err. calcolato con Remez / Err. con la stima sopra (con lo splitting): 7.430967.
+
+Punti di Chebyshev usati per approssimare   sin(pi*x)/(pi*x)   alla precisione di macchina: 
+Con 'splitting on': 21 
+Senza 'splitting on': 21 

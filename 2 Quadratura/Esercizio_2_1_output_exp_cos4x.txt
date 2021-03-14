@@ -1,0 +1,8 @@
+Formula di Gauss-Jacobi con 10,20,30 punti.
+
+Funzione da integrare: exp(x)*cos(4*x), tra 0.0 e 3.1, usando il peso (1-x)^0.0 (1+x)^0.0 
+Risultato 'esatto': 1.30239368428113.
+
+Valore calcolato con 10 punti: 1.3023936883803300.	Errore con 10 punti: 4.09920e-09
+Valore calcolato con 20 punti: 1.3023936842811001.	Errore con 20 punti: 3.33067e-14
+Valore calcolato con 30 punti: 1.3023936842811485.	Errore con 30 punti: 1.50990e-14
